@@ -1,13 +1,13 @@
 # Calculadora Simple
 
-Una calculadora basica en Python que realiza operasiones aritmeticas.
+Una calculadora básica en Python que realiza operaciones aritméticas.
 
 ## Funciones
 
 - Suma
 - Resta
-- Multiplicacion
-- Divicion
+- Multiplicación
+- División
 
 ## Uso
 
